@@ -27,7 +27,7 @@ show_downloads: true
 # (string) Specify branch rendered by gitpages allowing wiki tool buttons to work
 git_branch: "main"
 # (string) Url of logo image, it can be full, absolute or relative.
-logo_url: "https://github.com/OU-Weather-and-Climate-Club/wiki/blob/main/assets/club-logo-with-background-closeup.png"
+logo_url: "/assets/club-logo-with-background-closeup.png"
 # (string) The UA-XXXXX-Y code from google analytic to enable GA on your wiki
 google_analytics: 
 # (string) folder where wiki pages are stored, it's needed for tool buttons
