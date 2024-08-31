@@ -1,21 +1,25 @@
-# git-wiki-skeleton
+# OU Weather and Climate Club Wiki
 
-NOTE: it's fully supported by github platform, you don't need to install anything locally
+[WEBSITE VIEW](https://ou-weather-and-climate-club.github.io/wiki/) | [REPO VIEW](https://github.com/OU-Weather-and-Climate-Club/wiki)
 
-This is a [skeleton](skeleton) repository that can be used as a template to bootstrap your wiki using "[remote_theme](https://github.com/benbalter/jekyll-remote-theme)" config
+**Idea in progress**: setting up a wiki to organise and share the resources suggested by our club members
 
-For documentation, installation guide and demo of git-wiki-theme visit [THIS PAGE](http://drassil.github.io/git-wiki/)
+The wiki is a club activity open to all club members; and especially for beginners, a great way to practise version control, GitHub actions and collaborative writing in a supportive environment.
 
-To report an issue, please use the [git-wiki-theme issues](https://github.com/Drassil/git-wiki-theme/issues)
+***
 
-## The git-wiki project
+At the moment we are figuring out whether we are happy with this wiki template:
+In theory, it could help us build a wiki with the functionalities shown in this [website demo](https://www.drassil.org/git-wiki/main_page)
 
-The git-wiki project is composed by 3 different repository:
+This repo was forked from [git-wiki-skeleton](https://github.com/Drassil/git-wiki-skeleton)
 
-- [git-wiki-theme](https://github.com/Drassil/git-wiki-theme): This is the repository of the theme that implements the wiki functionalities. You would have not fork it unless you need to send a Pull Request or create your wiki project from scratch.
+For the template's documentation, installation guide and demo of git-wiki-theme visit [this page](http://drassil.github.io/git-wiki/)
 
-- [git-wiki-skeleton](https://github.com/Drassil/git-wiki-skeleton): This is the repo that you should fork or use as a template. It uses the [jekyll remote theme](https://github.com/benbalter/jekyll-remote-theme) functionality that allows you to create your own wiki based on git-wiki-theme. By using the remote functionality you can automatically keep your wiki always updated with latest features from the **git-wiki-theme**, but you can also fully customize it.
+***
 
-- [git-wiki](https://github.com/Drassil/git-wiki): This is the documentation repository and website of the **git-wiki-theme** project. You would have not fork it unless you want to contribute to the git-wiki project documentation.
+Tasks To-Do List:
 
-Version: 1.0.9
+- [ ] Explore and understand the template
+- [ ] Decide how resources should be organised 
+- [ ] Write documentation explaining how to contribute
+- [ ] Connect/transfer resources suggested in Discord
