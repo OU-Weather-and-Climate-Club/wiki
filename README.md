@@ -1,6 +1,6 @@
 # OU Weather and Climate Club Wiki
 
-[WEBSITE VIEW](https://ou-weather-and-climate-club.github.io/Wiki/) | [REPO VIEW](https://github.com/OU-Weather-and-Climate-Club/Wiki)
+[WEBSITE VIEW](https://ou-weather-and-climate-club.github.io/wiki/) | [REPO VIEW](https://github.com/OU-Weather-and-Climate-Club/wiki)
 
 **Idea in progress**: setting up a wiki to organise and share the resources suggested by our club members
 
