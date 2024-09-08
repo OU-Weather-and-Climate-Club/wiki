@@ -4,21 +4,11 @@
 
 ## 💡Project Portfolio Inspiration Board
 
-<table>
-    <tr>
-        <th>River Flow Project</th>
-    </tr>
-    <tr>
-        <td><img src="../assets/Bathford-Station-Image.jpg"></td>
-    </tr>
-    <tr>
-        <td>https://github.com/OU-Weather-and-Climate-Club/River-Flow-Project</td>
-    </tr>
-    <tr>
-        <td>An exploratory data analysis on river flow and rainfall at Bathford gauging station on the River Avon</td>
-    </tr>
-</table>
-
+| River Flow Project | |
+| --- | --- |
+| <img src="../assets/Bathford-Station-Image.jpg"> | |
+| https://github.com/OU-Weather-and-Climate-Club/River-Flow-Project| |
+| An exploratory data analysis on river flow and rainfall at Bathford gauging station on the River Avon | |
 
 ***
 
