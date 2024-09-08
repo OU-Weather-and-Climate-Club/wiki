@@ -11,8 +11,8 @@ The Royal Meteorological Society are the UK's Professional and Learned Society f
 
 ## 📌Job Alerts
 
-If you are a beginner, job postings have a lot of interesting information about current groups and active interests and might help you get a feel for what interests you.
+If you are a beginner, job postings have a lot of interesting information about current groups and active interests and might help you get a feel for what interests you!
 
-In a discord server, we have set up a dedicated channel for vacancies via RSS feed: if you would like to set up a customised jobs email alert for yourself, top tips are [RMetS Jobs](https://jobs.rmets.org/), [jobs.ac.uk](https://www.jobs.ac.uk/) and [Indeed](https://uk.indeed.com/). For listings in the renewable energy sector, [Rejobs](https://rejobs.org/en) is a great place to look, set up by a recent OU Environmental Sciences graduate.
+In our discord server, we have set up a dedicated channel for vacancies via RSS feed: if you would like to set up a customised jobs email alert for yourself, top tips are using [RMetS Jobs](https://jobs.rmets.org/), [jobs.ac.uk](https://www.jobs.ac.uk/) and [Indeed](https://uk.indeed.com/). For listings in the renewable energy sector, [Rejobs](https://rejobs.org/en) is a great place to look and was set up by a recent OU Environmental Sciences graduate.
 
 ***
