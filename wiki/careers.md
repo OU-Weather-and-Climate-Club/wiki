@@ -21,10 +21,18 @@ In our discord server, we have set up a dedicated channel for vacancies via RSS 
 
 - [Met Office Careers](https://careers.metoffice.gov.uk/key-roles-met-office/science): Early career entry listings at the Met Office are advertised as *Foundation Scientist*, and other opportunities include their [Graduate Development Scheme](https://careers.metoffice.gov.uk/early-careers/graduate-development-scheme)  and their [Operational Meteorologist Foundation Course](https://careers.metoffice.gov.uk/early-careers/foundation-operational-meteorologist) .
 
-  A recent independent report projected that The Met Office will [deliver economic benefits worth £56 billion to the UK over the next 10 years](https://www.metoffice.gov.uk/about-us/news-and-media/media-centre/corporate-news/2024/met-office-delivers-gbp56-billion-of-economic-value-to-the-uk)!
+A recent independent report projected that The Met Office will [deliver economic benefits worth £56 billion to the UK over the next 10 years](https://www.metoffice.gov.uk/about-us/news-and-media/media-centre/corporate-news/2024/met-office-delivers-gbp56-billion-of-economic-value-to-the-uk)!
 
 ***
 
 ## 📌 Internships
+
+- STEM Research Summer Internships: usually advertised on [https://jobs.open.ac.uk](https://jobs.open.ac.uk) in spring, with an early May deadline.
+
+- Maths and Stats Student Research Bursaries: https://www5.open.ac.uk/stem/mathematics-and-statistics/research/student-research-bursaries
+
+and keep an eye on [https://opportunityhub.open.ac.uk](https://opportunityhub.open.ac.uk) for more remote intership opportunities!
+
+- Hydrology: [Hydro-JOULES internship programme](https://hydro-jules.org/hydro-jules-internship)
 
 
