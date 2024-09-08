@@ -4,7 +4,7 @@ Some great introductory courses shared by our members that you might find useful
 
 ***
 
-### 📌 University Of Reading
+## 📌 University Of Reading
 
 The University of Reading is the UK's leading meteorology department and offers 4 free on-demand courses open to anyone. No existing knowledge or experience of meteorology required:
 
@@ -37,7 +37,7 @@ In addition, there are [4 term-long scheduled online courses](https://www.readin
 
 ***
 
-### 📌 OpenLearn
+## 📌 OpenLearn
 
 The home of free learning from The Open University, there so many interesting courses - it's a great place to start!
 
@@ -51,7 +51,7 @@ Some of the OpenLearn courses shared by our members include:
  
 ***
 
-### 📌 Harvard Center for the Environment
+## 📌 Harvard Center for the Environment
 
 From the Harvard Center for the Environment, this is a course website giving a quantitative introduction to the science of climate change and its consequences, meant to assist students to process issues that often appear in the news and public debates.
 
