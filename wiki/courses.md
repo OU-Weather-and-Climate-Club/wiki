@@ -1,6 +1,6 @@
 # Courses
 
-Some great introductory courses shared by our members that you might find useful and fun!
+Some great introductory courses shared by our members that you might find useful and fun 📖
 ***
 
 ### 📌 University Of Reading
@@ -33,3 +33,17 @@ In addition, there are [4 term-long scheduled online courses](https://www.readin
 - [Tropical Meteorology](https://www.reading.ac.uk/meteorology/online-courses/classes/tropical-meteorology)
 
 - [Climate Services and Climate Impact Modelling](https://www.reading.ac.uk/meteorology/online-courses/classes/climate-services-and-climate-impact-modelling)
+
+  ***
+
+  ### 📌 OpenLearn
+
+  The home of free learning from The Open University, there so many interesting courses - it's a great place to start!
+
+  Some of the OpenLearn courses shared by our members include
+
+  - [Supporting Climate Action through Digital Education](https://www.open.edu/openlearn/education-development/supporting-climate-action-through-digital-education)
+
+  - [Introducing Climate Psychology: facing the climate crisis](https://www.open.edu/openlearn/health-sports-psychology/introducing-climate-psychology-facing-the-climate-crisis)
+ 
+  - [Engineering: Environmental Fluids](https://www.open.edu/openlearn/science-maths-technology/engineering-environmental-fluids)
