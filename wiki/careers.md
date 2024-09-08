@@ -35,4 +35,16 @@ and keep an eye on [https://opportunityhub.open.ac.uk](https://opportunityhub.op
 
 - Hydrology: [Hydro-JOULES internship programme](https://hydro-jules.org/hydro-jules-internship)
 
+***
+
+## 📌 Volunteering
+
+- [Climate Ambassador Scheme](https://climateambassadors.org.uk/get-involved/)
+
+- [RMetS Student Ambassador Scheme](https://www.rmets.org/student-ambassadors )
+
+- [Net Zero Tracker](https://zerotracker.net/volunteering)
+
+- Register with [Zooniverse](https://www.zooniverse.org/) for climate citizen science opportunities
+
 
