@@ -9,7 +9,7 @@
         <th>River Flow Project</th>
     </tr>
     <tr>
-        <td><img src="Bathford-Station-Image.jpg"></td>
+        <td><img src="../assets/Bathford-Station-Image.jpg"></td>
     </tr>
     <tr>
         <td>https://github.com/OU-Weather-and-Climate-Club/River-Flow-Project</td>
