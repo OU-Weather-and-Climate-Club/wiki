@@ -43,6 +43,8 @@ The home of free learning from The Open University, there so many interesting co
 
 Some of the OpenLearn courses shared by our members include:
 
+  - [Watching the Weather](https://www.open.edu/openlearn/nature-environment/environmental-studies/watching-the-weather)
+
   - [Supporting Climate Action through Digital Education](https://www.open.edu/openlearn/education-development/supporting-climate-action-through-digital-education)
 
   - [Introducing Climate Psychology: facing the climate crisis](https://www.open.edu/openlearn/health-sports-psychology/introducing-climate-psychology-facing-the-climate-crisis)
@@ -60,4 +62,8 @@ There are slides, videos and coding exercises in Jupyter notebooks with module c
 [Course Website](https://courses.seas.harvard.edu/climate/eli/Courses/EPS101/index.html)
 
 *** 
+
+## 📌 RMetS Directory for University Degree Courses
+
+[https://www.rmets.org/courses](https://www.rmets.org/courses)
 
