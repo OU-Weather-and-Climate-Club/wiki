@@ -4,7 +4,7 @@ Some great introductory courses shared by our members that you might find useful
 
 ***
 
-## 📌 University Of Reading
+## 📌 University of Reading 
 
 The University of Reading is the UK's leading meteorology department and offers 4 free on-demand courses open to anyone. No existing knowledge or experience of meteorology required:
 
