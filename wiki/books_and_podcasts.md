@@ -36,3 +36,8 @@ Here are some podcast series that were recommended by members! We keep up to dat
   
 - [PlanetGeo](https://planetgeocast.com/)
 
+***
+
+## Newsletters 📰
+
+For weekly digests of climate news, The Conversation's [Imagine](https://theconversation.com/uk/newsletters/imagine-57) and [Carbon Brief](https://www.carbonbrief.org/) are both great member suggestions
