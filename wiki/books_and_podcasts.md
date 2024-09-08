@@ -1,7 +1,7 @@
 # Books and Podcasts
 
 ***
-## Books: members' top picks 📚
+## Books: club top picks 📚
 
 ### Introductory Textbooks:
 
@@ -24,7 +24,7 @@
 ***
 ## Podcasts 🎧
 
-Here are some podcast series that were recommended by members! We keep up to date with the most recent episodes via our discord RSS feed:
+Here are some podcast series recommended by members - we keep up to date with the most recent episodes via our discord RSS feed:
 
 - [For The Love of Weather](https://rss.com/podcasts/for-the-love-of-weather/)
   
@@ -40,4 +40,4 @@ Here are some podcast series that were recommended by members! We keep up to dat
 
 ## Newsletters 📰
 
-For weekly digests of climate news, The Conversation's [Imagine](https://theconversation.com/uk/newsletters/imagine-57) and [Carbon Brief](https://www.carbonbrief.org/) are both great member suggestions
+For weekly digests of climate news, The Conversation's [Imagine](https://theconversation.com/uk/newsletters/imagine-57) and [Carbon Brief](https://www.carbonbrief.org/) are good recommendations.
