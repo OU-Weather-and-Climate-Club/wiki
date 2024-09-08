@@ -34,16 +34,29 @@ In addition, there are [4 term-long scheduled online courses](https://www.readin
 
 - [Climate Services and Climate Impact Modelling](https://www.reading.ac.uk/meteorology/online-courses/classes/climate-services-and-climate-impact-modelling)
 
-  ***
+***
 
-  ### 📌 OpenLearn
+### 📌 OpenLearn
 
-  The home of free learning from The Open University, there so many interesting courses - it's a great place to start!
+The home of free learning from The Open University, there so many interesting courses - it's a great place to start!
 
-  Some of the OpenLearn courses shared by our members include
+Some of the OpenLearn courses shared by our members include:
 
   - [Supporting Climate Action through Digital Education](https://www.open.edu/openlearn/education-development/supporting-climate-action-through-digital-education)
 
   - [Introducing Climate Psychology: facing the climate crisis](https://www.open.edu/openlearn/health-sports-psychology/introducing-climate-psychology-facing-the-climate-crisis)
  
   - [Engineering: Environmental Fluids](https://www.open.edu/openlearn/science-maths-technology/engineering-environmental-fluids)
+ 
+***
+
+### 📌 Harvard Center for the Environment
+
+From the Harvard Center for the Environment, this is a course website giving a quantitative introduction to the science of climate change and its consequences, meant to assist students to process issues that often appear in the news and public debates.
+
+There are slides, videos and coding exercises in Jupyter notebooks with module categories titled Basics, Atmosphere, Oceans, Cryosphere and Warming Consequences:
+
+https://courses.seas.harvard.edu/climate/eli/Courses/EPS101/index.html
+
+*** 
+
