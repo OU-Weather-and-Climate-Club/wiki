@@ -1,3 +1,38 @@
 # Books and Podcasts
 
 ***
+## Books: members' top picks 📚
+
+### Introductory Textbooks:
+
+- *Practical Meteorology (Stull)*: [Free Access](https://geo.libretexts.org/Bookshelves/Meteorology_and_Climate_Science/Practical_Meteorology_(Stull)#:~:text=This%20book%20is%20an%20algebra,not%20need%20to%20derive%20equations)
+
+*This book is an algebra-based survey of atmospheric science. This book is designed for students and professionals who want to understand and apply basic meteorological concepts, but who do not need to derive equations. The equation and could serve the fields of Atmospheric Science, Meteorology, Environmental Science, Engineering, Air Quality, Climatology, and Geography. The text involve primarily algebra to allow the physical meaning of each term and allow students to plug in numbers to get usable answers. No previous knowledge of meteorology is needed although a background in basic algebra, trigonometry, and classical physics.*
+
+
+ - *Inness, P. (Peter M.) and Dorling, S. (Stephen R.) (2013) Operational weather forecasting. 1st ed. Hoboken, N.J: John Wiley & Sons, Ltd*:
+ [online access available via OU Library](https://library-search.open.ac.uk/permalink/44OPN_INST/la9sg5/alma9952616757902316)
+
+### Popular Science:
+
+- *The Weather Experiment, Peter Moore*: 
+[https://www.penguin.co.uk/books/416583/the-weather-experiment-by-peter-moore/9780099581673](https://www.penguin.co.uk/books/416583/the-weather-experiment-by-peter-moore/9780099581673)
+
+- *The Cloudspotter's Guide, Gavin-Pretor Pinney*:
+[https://www.hachette.co.uk/titles/gavin-pretor-pinney/the-cloudspotters-guide/9780340895900/ ](https://www.hachette.co.uk/titles/gavin-pretor-pinney/the-cloudspotters-guide/9780340895900/ )
+
+***
+## Podcasts 🎧
+
+Here are some podcast series that were recommended by members! We keep up to date with the most recent episodes via our discord RSS feed:
+
+- [For The Love of Weather](https://rss.com/podcasts/for-the-love-of-weather/)
+  
+- [Watching Our Earth](https://audioboom.com/channels/5011622-watching-our-earth)
+  
+- [Into The Blue](https://noc.ac.uk/education/educational-resources/into-the-blue-podcast)
+  
+- [Zero](https://www.bloomberg.com/green-zero-emissions-podcast)
+  
+- [PlanetGeo](https://planetgeocast.com/)
+
