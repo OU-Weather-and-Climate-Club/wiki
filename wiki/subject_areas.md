@@ -1,6 +1,6 @@
 # Subject Areas
 
-We created the following subject community areas in our discord club home to help members connect and support each other over shared interests!
+We created the following community areas in our discord home to help members connect and support each other over shared interests.
 
 Here are a few top picks of the resources shared there:
 
