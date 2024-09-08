@@ -1,6 +1,6 @@
 # OU Weather and Climate Club Wiki
 
-[WEBSITE VIEW](https://ou-weather-and-climate-club.github.io/wiki/) | [REPO VIEW](https://github.com/OU-Weather-and-Climate-Club/wiki)
+[Courses](wiki/courses.md) | [Careers](wiki/careers.md) | [Books and Podcasts](wiki/books_and_podcasts.md) | [Datasets](wiki/datasets.md) | [Subject Areas](wiki/subject_areas.md) | [Gallery](wiki/gallery.md)
 
 **Idea in progress**: setting up a wiki to organise and share the resources suggested by our club members
 
