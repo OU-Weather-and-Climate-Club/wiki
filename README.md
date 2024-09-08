@@ -1,4 +1,4 @@
-# OU Weather and Climate Club Wiki
+# Home
 
 [Courses](wiki/courses.md) | [Careers](wiki/careers.md) | [Books and Podcasts](wiki/books_and_podcasts.md) | [Datasets](wiki/datasets.md) | [Subject Areas](wiki/subject_areas.md) | [Gallery](wiki/gallery.md)
 
