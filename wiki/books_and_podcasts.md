@@ -1,3 +1,3 @@
-# Books <html>&#38;</html> Podcasts
+# Books and Podcasts
 
 ***
