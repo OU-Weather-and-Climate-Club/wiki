@@ -30,11 +30,7 @@ Here are a few top picks of the resources shared there:
 
 ***
 
-## 📡 Remote Sensing
-
-***
-
-## 🚀 Space Weather
+## 🚀 Space 
 
 ***
 
