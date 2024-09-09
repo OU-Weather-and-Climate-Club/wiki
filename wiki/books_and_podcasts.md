@@ -21,6 +21,9 @@
 - *The Cloudspotter's Guide, Gavin-Pretor Pinney*:
 [https://www.hachette.co.uk/titles/gavin-pretor-pinney/the-cloudspotters-guide/9780340895900/ ](https://www.hachette.co.uk/titles/gavin-pretor-pinney/the-cloudspotters-guide/9780340895900/ )
 
+- *Not the End of the World, Hannah Ritchie*:
+[https://www.penguin.co.uk/books/453652/not-the-end-of-the-world-by-ritchie-hannah/9781529931242](https://www.penguin.co.uk/books/453652/not-the-end-of-the-world-by-ritchie-hannah/9781529931242)
+
 ***
 ## Podcasts 🎧
 
