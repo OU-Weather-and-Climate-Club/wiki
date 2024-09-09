@@ -28,7 +28,7 @@ This was kindly shared by an OU tutor for our club members on the Maths and Stat
 
 [https://coast.noaa.gov/digitalcoast/data/home.html](https://coast.noaa.gov/digitalcoast/data/home.html)
 
-[https://gml.noaa.gov/ccgg/data/]()https://gml.noaa.gov/ccgg/data/
+[https://gml.noaa.gov/ccgg/data/](https://gml.noaa.gov/ccgg/data/)
 
 ***
 
