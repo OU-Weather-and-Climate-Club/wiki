@@ -6,13 +6,15 @@ This is a place to share information about open source weather and climate data 
 
 ## Copernicus
 
-This was kindly shared by an OU tutor for our club members on the Maths and Stats forums
+This was kindly shared by an OU tutor for our club members on the Maths and Stats forums:
 
 *Something that might be of interest to this club is the Copernicus Climate Data Store*
 
-[https://cds.climate.copernicus.eu/#!/home](https://cds.climate.copernicus.eu/#!/home)
-
 *This is an enormous data repository of observations, reanalysis and projections for global weather and climate.  There is so much information, it is a challenge to find one's way around, and beware that any dataset you download may be huge.  There are interactive representations of key data to explore.  With some programming experience, you can produce plots and process information yourself online. And it is free to use.  (A student of mine used it last year.)*
+
+The Copernicus Climate Data Store is currently migrating infrastructure to [https://cds-beta.climate.copernicus.eu](https://cds-beta.climate.copernicus.eu), which requires an ECMWF account for access. This page has more information on ECMWF public access: [https://www.ecmwf.int/en/forecasts/accessing-forecasts](https://www.ecmwf.int/en/forecasts/accessing-forecasts)
+
+The [Copernicus Data Space Ecosystem](https://dataspace.copernicus.eu) is another Copernicus dataset with helpful user guide videos in its dedicated [YouTube channel](https://www.youtube.com/@copernicusdataspaceecosystem/videos).
 
 ***
 
