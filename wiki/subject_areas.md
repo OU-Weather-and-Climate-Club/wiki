@@ -10,10 +10,6 @@ Here are a few top picks of the resources shared there:
 
 ***
 
-## 💵 Climate Economics
-
-***
-
 ## 🔱 Climate Psychology
 
 ***
