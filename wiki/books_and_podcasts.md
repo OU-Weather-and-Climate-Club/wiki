@@ -21,6 +21,9 @@
 - *The Cloudspotter's Guide, Gavin-Pretor Pinney*:
 [https://www.hachette.co.uk/titles/gavin-pretor-pinney/the-cloudspotters-guide/9780340895900/ ](https://www.hachette.co.uk/titles/gavin-pretor-pinney/the-cloudspotters-guide/9780340895900/ )
 
+*"The Cloudspotter's Guide was the book that set me on my current path 💙 It's really fun to read, it introduces all the different types of clouds in a really engaging way through stories - it got me looking up at the sky to see what was there, and clouds are really beautiful when you notice them. 
+It really enriched my life, it lifts your spirits to look up!" Sonia, Club Chair*
+
 - *Not the End of the World, Hannah Ritchie*:
 [https://www.penguin.co.uk/books/453652/not-the-end-of-the-world-by-ritchie-hannah/9781529931242](https://www.penguin.co.uk/books/453652/not-the-end-of-the-world-by-ritchie-hannah/9781529931242)
 
