@@ -53,6 +53,18 @@ In addition, there are [4 term-long scheduled online courses](https://www.readin
  
 ***
 
+## 📌 National Centre for Atmospheric Science
+
+Introductory, Practical and Modelling courses in atmospheric science: some are online and some are in-person at various centres around the UK. *Educational discount* or *NCAS Subsidised* rates for fees might be possible.
+
+- [NCAS Training Courses](https://ncas.ac.uk/study-with-us/)
+
+Courses include: Introduction to Atmospheric Science; Introduction to Scientific Computing; Data Analysis Tools; Introduction to Atmospheric Radar; Practical Aerosol Science; Introduction to UK Chemistry Aerosol model; Introduction to Unified Model; MPAS tutorials; Atmospheric Measurement & Modelling Summer School; Climate Modelling Summer School
+
+You can subscribe to the [NCAS Training mailing list](https://ncas.us19.list-manage.com/subscribe?u=1d208728001407fb3e7ef3f74&id=67d63d0201)
+
+***
+
 ## 📌 Harvard Center for the Environment
 
 From the Harvard Center for the Environment, this is a course website giving a quantitative introduction to the science of climate change and its consequences, meant to assist students to process issues that often appear in the news and public debates.
