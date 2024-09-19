@@ -6,6 +6,10 @@ Here are a few top picks of the resources shared there:
 
 ***
 
+## 🌦️Weather
+
+***
+
 ## 🌡️Climate Change
 
 ***
@@ -18,7 +22,7 @@ Here are a few top picks of the resources shared there:
 
 ***
 
-## 🔋 Renewable Energy
+## 🌱 Environment
 
 ***
 
