@@ -13,10 +13,16 @@
  - *Inness, P. (Peter M.) and Dorling, S. (Stephen R.) (2013) Operational weather forecasting. 1st ed. Hoboken, N.J: John Wiley & Sons, Ltd*:
  [online access available via OU Library](https://library-search.open.ac.uk/permalink/44OPN_INST/la9sg5/alma9952616757902316)
 
+*This book offers a complete primer, covering the end-to-end process of forecast production, and bringing together a description of all the relevant aspects together in a single volume; with plenty of explanation of some of the more complex issues and examples of current, state-of-the-art practices.*
+
 ### Popular Science:
 
 - *The Weather Experiment, Peter Moore*: 
 [https://www.penguin.co.uk/books/416583/the-weather-experiment-by-peter-moore/9780099581673](https://www.penguin.co.uk/books/416583/the-weather-experiment-by-peter-moore/9780099581673)
+
+*Meet Luke Howard, the first to classify the clouds, Francis Beaufort, quantifier of the winds, James Glaisher, explorer of the upper atmosphere by way of a hot air balloon, Samuel Morse, whose electric telegraph gave scientists the means by which to transmit weather warnings, and at the centre of it all Admiral Robert FitzRoy: master sailor, scientific pioneer and founder of the Met Office.*
+
+*Peter Moore’s exhilarating account navigates treacherous seas, rough winds and uncovers the obsession that drove these men to great invention and greater understanding.*
 
 - *The Cloudspotter's Guide, Gavin-Pretor Pinney*:
 [https://www.hachette.co.uk/titles/gavin-pretor-pinney/the-cloudspotters-guide/9780340895900/ ](https://www.hachette.co.uk/titles/gavin-pretor-pinney/the-cloudspotters-guide/9780340895900/ )
@@ -46,4 +52,4 @@ Here are some podcast series recommended by members - we keep up to date with th
 
 ## Newsletters 📰
 
-For weekly digests of climate news, The Conversation's [Imagine](https://theconversation.com/uk/newsletters/imagine-57) and [Carbon Brief](https://www.carbonbrief.org/) are good recommendations.
+For weekly digests of climate news, The Conversation's [Imagine](https://theconversation.com/uk/newsletters/imagine-57),  [Carbon Brief](https://www.carbonbrief.org/) and the BBC's [Future Earth](https://www.bbc.co.uk/newsletters/zdsgqyc) are good recommendations.
