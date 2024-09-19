@@ -22,6 +22,16 @@ The [Copernicus Data Space Ecosystem](https://dataspace.copernicus.eu) is anothe
 
 [https://www.eumetsat.int/](https://www.eumetsat.int/)
 
+There are a lot of resources to support anyone wishing to get started - this EUMETSAT guide lists them all:
+
+[https://user.eumetsat.int/resources/user-guides/getting-started-using-data](https://user.eumetsat.int/resources/user-guides/getting-started-using-data)
+
+The resources listed there include this [YouTube playlist](https://www.youtube.com/watch?v=XqoetylQAIY&list=PLOQg9n6Apif2Qw_gLhwzhJb3XUoAiUkoq) where a series of videos covers
+
+- How to access satellite data from EUMETSAT and the missions it operates as part of the Copernicus programme
+  
+- Basics of working with different types of data, including ocean colour, SST and altimetry
+
 ***
 
 ## NOAA
@@ -38,6 +48,12 @@ The [Copernicus Data Space Ecosystem](https://dataspace.copernicus.eu) is anothe
 
 [ https://www.ecmwf.int/ ]( https://www.ecmwf.int/ )
 [https://www.ecmwf.int/en/forecasts/datasets/search?f%5B0%5D=filter_by_catalogue_%3Afield_dataset_public_url](https://www.ecmwf.int/en/forecasts/datasets/search?f%5B0%5D=filter_by_catalogue_%3Afield_dataset_public_url)
+
+***
+
+## Marine Environmental Data and Information Network [MEDIN]
+
+[https://medin.org.uk/](https://medin.org.uk/)
 
 ***
 
