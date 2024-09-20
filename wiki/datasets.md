@@ -56,8 +56,19 @@ StoryMap topics include [Mapping NOAA Data](https://storymaps.arcgis.com/stories
 
 ## ECMWF
 
-[ https://www.ecmwf.int/ ]( https://www.ecmwf.int/ )
-[https://www.ecmwf.int/en/forecasts/datasets/search?f%5B0%5D=filter_by_catalogue_%3Afield_dataset_public_url](https://www.ecmwf.int/en/forecasts/datasets/search?f%5B0%5D=filter_by_catalogue_%3Afield_dataset_public_url)
+Overview of ECMWF Datasets:
+
+[https://www.ecmwf.int/en/forecasts/datasets/open-data](https://www.ecmwf.int/en/forecasts/datasets/open-data)
+
+Information on the subset of ECMWF real-time forecast data that are made available to the public free of charge:
+
+[https://www.ecmwf.int/en/forecasts/datasets/open-data](https://www.ecmwf.int/en/forecasts/datasets/open-data)
+
+- ECMWF YouTube Training Webinars: [https://www.youtube.com/@ecmwf](https://www.youtube.com/@ecmwf)
+
+- Tropical Climate Research Lab (video): [How to download ECMWF weather and climate data for free | Step by step guide | Climate data | Python](https://youtu.be/HccN-vKEbS8?si=rZcRDR-MYpqPXUN8)
+
+
 
 ***
 
