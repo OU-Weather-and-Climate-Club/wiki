@@ -54,7 +54,7 @@ StoryMap topics include [Mapping NOAA Data](https://storymaps.arcgis.com/stories
 
 ***
 
-## ECMWF
+## European Centre for Medium-Range Weather Forecasts (ECMWF)
 
 Overview of ECMWF Datasets:
 
