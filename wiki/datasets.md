@@ -34,13 +34,23 @@ The resources listed there include this [YouTube playlist](https://www.youtube.c
 
 ***
 
-## NOAA
+## National Oceanic and Atmospheric Administration (NOAA)
 
-[https://www.noaa.gov/](https://www.noaa.gov/)
+*[NOAA](https://www.noaa.gov/) are the US scientific and regulatory agency charged with forecasting weather, monitoring oceanic and atmospheric conditions, charting the seas, conducting deep-sea exploration, and managing fishing and protection of marine mammals and endangered species*
 
-[https://coast.noaa.gov/digitalcoast/data/home.html](https://coast.noaa.gov/digitalcoast/data/home.html)
+*The National Centers for Environmental Information manages all of the databases for NOAA’s oceanic, atmospheric, and geophysical data:*
 
-[https://gml.noaa.gov/ccgg/data/](https://gml.noaa.gov/ccgg/data/)
+[https://www.ncei.noaa.gov/access](https://www.ncei.noaa.gov/access)
+
+- one dataset of note is the Global Greenhouse Gas Reference Network: [https://gml.noaa.gov/ccgg/data/](https://gml.noaa.gov/ccgg/data/)
+
+*The measurements of the Global Greenhouse Gas Reference Network represent the longest on-going calibrated record of global GHG atmospheric levels. The GGGRN background air measurements are used to track year-to-year changes and long-term trends in GHG levels. Documenting GHG global trends reliably is important to quantify their impact on the earth's radiative budget and climate. The measurements serve as a comparison with measurements made by many other international laboratories, and with regional studies. They are widely used in studies inferring space-time patterns of emissions and removals of greenhouse gases that are optimally consistent with the atmospheric observations.*
+
+- [NOAA Story Map Gallery](https://noaa.maps.arcgis.com/apps/MinimalGallery/index.html?appid=e02942a8cdeb45348c69184539a7e705)
+
+*Esri StoryMaps present complex scientific or safety information in easy-to-understand terms. They combine maps, narrative text, images, and multimedia with history, to transform data and products into interactive, visual narratives*
+
+StoryMap topics include [Mapping NOAA Data](https://storymaps.arcgis.com/stories/1316b389ecfd4f3087892710e05f7ea4)
 
 ***
 
