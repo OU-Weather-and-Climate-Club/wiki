@@ -66,7 +66,7 @@ Information on the subset of ECMWF real-time forecast data that are made availab
 
 - ECMWF YouTube Training Webinars: [https://www.youtube.com/@ecmwf](https://www.youtube.com/@ecmwf)
 
-- Tropical Climate Research Lab (video): [How to download ECMWF weather and climate data for free | Step by step guide | Climate data | Python](https://youtu.be/HccN-vKEbS8?si=rZcRDR-MYpqPXUN8)
+- Tropical Climate Research Lab (video): [How to download ECMWF weather and climate data for free](https://youtu.be/HccN-vKEbS8?si=rZcRDR-MYpqPXUN8)
 
 
 
