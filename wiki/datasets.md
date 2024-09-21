@@ -76,6 +76,13 @@ Information on the subset of ECMWF real-time forecast data that are made availab
 
 [https://medin.org.uk/](https://medin.org.uk/)
 
+*MEDIN is a partnership of UK organisations committed to improving access to and stewardship of UK marine data.*
+
+ - The MEDIN portal describes over 18,000 marine datasets, owned or managed by more than 600 UK organisations:
+[https://portal.medin.org.uk/portal/start.php](https://portal.medin.org.uk/portal/start.php)
+
+- MEDIN free online training workshops: [https://medin.org.uk/data-standards/medin-workshops](https://medin.org.uk/data-standards/medin-workshops)
+
 ***
 
 ## National River Flow Archive
