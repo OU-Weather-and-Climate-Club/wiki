@@ -101,6 +101,10 @@ NRFA data guide (5 min video): [https://youtu.be/EfFFGufCkYg?si=PwulJ9JCbzjaial-
 
 [ https://open-meteo.com/]( https://open-meteo.com/)
 
+Suggestion kindly shared by club member: *A useful,  free for non commercial use,  dataset is provided by https://open-meteo.com.
+Recent past history at 1km and 11km sourced from well known datasets.  All they ask is that use is fair and reasonable.  Historic requests can take up to 5 days to be made available.
+Access is via api, and they give some CURL examples for how to programatically access data*
+
 ***
 
 ## Kaggle
