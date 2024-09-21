@@ -41,7 +41,9 @@ Here are some podcast series recommended by members - we keep up to date with th
 - [For The Love of Weather](https://rss.com/podcasts/for-the-love-of-weather/)
   
 - [Watching Our Earth](https://audioboom.com/channels/5011622-watching-our-earth)
-  
+- 
+- [Beyond The Ice](https://audioboom.com/channels/5122977-beyond-the-ice)
+- 
 - [Into The Blue](https://noc.ac.uk/education/educational-resources/into-the-blue-podcast)
   
 - [Zero](https://www.bloomberg.com/green-zero-emissions-podcast)
