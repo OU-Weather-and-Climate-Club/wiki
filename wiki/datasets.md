@@ -85,9 +85,15 @@ Information on the subset of ECMWF real-time forecast data that are made availab
 
 ***
 
-## National River Flow Archive
+## National River Flow Archive (NRFA)
 
 [https://nrfa.ceh.ac.uk/](https://nrfa.ceh.ac.uk/)
+
+*The National River Flow Archive (NRFA), based at the UK Centre for Ecology & Hydrology, is the UK’s official record of river flow data.
+We collate, curate and provide access to data from over 1,600 gauging stations all around the UK.
+Our data are used in many ways; for example, to assess water availability and to assess the impacts of climate change over time. Some of our records go back to the nineteenth century, and many go back to the 1960s, allowing us to identify long-term trends in river flows, and to assess flood and drought events in relation to other similar events in the past.*
+
+NRFA data guide (5 min video): [https://youtu.be/EfFFGufCkYg?si=PwulJ9JCbzjaial-](https://youtu.be/EfFFGufCkYg?si=PwulJ9JCbzjaial-)
 
 ***
 
