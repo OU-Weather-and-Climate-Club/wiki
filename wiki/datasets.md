@@ -4,7 +4,7 @@ This is a place to share information about open source weather and climate data 
 
 ***
 
-## Copernicus
+## 📌Copernicus
 
 This was kindly shared by an OU tutor for our club members on the Maths and Stats forums:
 
@@ -18,7 +18,7 @@ The [Copernicus Data Space Ecosystem](https://dataspace.copernicus.eu) is anothe
 
 ***
 
-## EUMETSAT
+## 📌EUMETSAT
 
 [https://www.eumetsat.int/](https://www.eumetsat.int/)
 
@@ -34,7 +34,7 @@ The resources listed there include this [YouTube playlist](https://www.youtube.c
 
 ***
 
-## National Oceanic and Atmospheric Administration (NOAA)
+## 📌National Oceanic and Atmospheric Administration (NOAA)
 
 *[NOAA](https://www.noaa.gov/) are the US scientific and regulatory agency charged with forecasting weather, monitoring oceanic and atmospheric conditions, charting the seas, conducting deep-sea exploration, and managing fishing and protection of marine mammals and endangered species*
 
@@ -54,7 +54,7 @@ StoryMap topics include [Mapping NOAA Data](https://storymaps.arcgis.com/stories
 
 ***
 
-## European Centre for Medium-Range Weather Forecasts (ECMWF)
+## 📌European Centre for Medium-Range Weather Forecasts (ECMWF)
 
 Overview of ECMWF Datasets:
 
@@ -72,7 +72,7 @@ Information on the subset of ECMWF real-time forecast data that are made availab
 
 ***
 
-## Marine Environmental Data and Information Network [MEDIN]
+## 📌Marine Environmental Data and Information Network [MEDIN]
 
 [https://medin.org.uk/](https://medin.org.uk/)
 
@@ -85,7 +85,7 @@ Information on the subset of ECMWF real-time forecast data that are made availab
 
 ***
 
-## National River Flow Archive (NRFA)
+## 📌National River Flow Archive (NRFA)
 
 [https://nrfa.ceh.ac.uk/](https://nrfa.ceh.ac.uk/)
 
@@ -97,7 +97,7 @@ NRFA data guide (5 min video): [https://youtu.be/EfFFGufCkYg?si=PwulJ9JCbzjaial-
 
 ***
 
-## Open-Meteo
+## 📌Open-Meteo
 
 [ https://open-meteo.com/]( https://open-meteo.com/)
 
@@ -109,7 +109,7 @@ Access is via api, and they give some CURL examples for how to programatically a
 
 ***
 
-## Kaggle
+## 📌Kaggle
 
 [https://www.kaggle.com/datasets](https://www.kaggle.com/datasets)
 
