@@ -113,5 +113,9 @@ Access is via api, and they give some CURL examples for how to programatically a
 
 [https://www.kaggle.com/datasets](https://www.kaggle.com/datasets)
 
+*A subsidiary of Google, it is an online community of data scientists and machine learning engineers. Kaggle allows users to find datasets they want to use in building AI models, publish datasets, work with other data scientists and machine learning engineers, and enter competitions to solve data science challenges.*
+
+Getting Started on Kaggle (YouTube Playlist): [https://www.youtube.com/playlist?list=PLqFaTIg4myu8gbDh6oBl7XRYNBlthpDEW](https://www.youtube.com/playlist?list=PLqFaTIg4myu8gbDh6oBl7XRYNBlthpDEW)
+
 ***
 
