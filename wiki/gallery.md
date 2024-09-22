@@ -5,13 +5,7 @@
 ## 💡Project Portfolio Inspiration Board
 
 
-<a href="https://sonia-beslika.github.io/River-Flow-Project/">
-  <img src="river-flow-thumbnail.png" alt="River Flow Project Thumbnail" width="362" height="181" style="margin: 20px" display="inline-block" />
-</a>
-
-  <a href="https://sonia-beslika.github.io/River-Flow-Project/">
-  <img src="river-flow-thumbnail.png" alt="River Flow Project Thumbnail" width="362" height="181" style="margin: 20px" display="inline-block" />
-</a>
+[![River Flow Thumbnail](river-flow-thumbnail.png)](https://github.com/OU-Weather-and-Climate-Club/River-Flow-Project)
 
 
 ***
