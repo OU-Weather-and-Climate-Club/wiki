@@ -4,11 +4,14 @@
 
 ## 💡Project Portfolio Inspiration Board
 
-<div>
+
 <a href="https://sonia-beslika.github.io/River-Flow-Project/">
-  <img src="river-flow-thumbnail.png" alt="River Flow Project Thumbnail" width="362" height="181" style="margin: 20px" />
+  <img src="river-flow-thumbnail.png" alt="River Flow Project Thumbnail" width="362" height="181" style="margin: 20px" display="inline-block" />
 </a>
-</div>
+
+  <a href="https://sonia-beslika.github.io/River-Flow-Project/">
+  <img src="river-flow-thumbnail.png" alt="River Flow Project Thumbnail" width="362" height="181" style="margin: 20px" display="inline-block" />
+</a>
 
 
 ***
