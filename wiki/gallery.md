@@ -5,9 +5,9 @@
 ## 💡Project Portfolio Inspiration Board
 
 
-### [![River Flow Thumbnail](river-flow-thumbnail.png)](https://github.com/OU-Weather-and-Climate-Club/River-Flow-Project)
+[![River Flow Thumbnail](river-flow-thumbnail.png)](https://github.com/OU-Weather-and-Climate-Club/River-Flow-Project)
 
-### [![Fish Abundance Thumbnail](fish-abundance-thumbnail.png)](https://github.com/OU-Weather-and-Climate-Club/Copernicus-FishAbundance)
+[![Fish Abundance Thumbnail](fish-abundance-thumbnail.png)](https://github.com/OU-Weather-and-Climate-Club/Copernicus-FishAbundance)
 
 
 
