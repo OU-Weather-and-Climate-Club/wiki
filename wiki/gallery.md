@@ -5,7 +5,7 @@
 ## 💡Project Portfolio Inspiration Board
 
 
-[<img src="river-flow-thumbnail.png" width="362" height="181" style="margin: 20px">](https://github.com/OU-Weather-and-Climate-Club/River-Flow-Project) 
+[![River Flow Thumbnail](river-flow-thumbnail.png)](https://github.com/OU-Weather-and-Climate-Club/River-Flow-Project) 
 
 
 ***
