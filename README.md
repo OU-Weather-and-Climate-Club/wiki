@@ -12,7 +12,7 @@ If you would like to contribute, you can do so
 
 - directly via GitHub as a collaborator
 
-- by posting in our Discord #**club-github-feed**
+- by posting in our Discord #club-github-feed
 
 This repo was forked from [git-wiki-skeleton](https://github.com/Drassil/git-wiki-skeleton)
 
