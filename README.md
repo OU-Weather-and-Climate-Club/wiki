@@ -2,14 +2,17 @@
 
 [Courses](wiki/courses.md) | [Careers](wiki/careers.md) | [Books and Podcasts](wiki/books_and_podcasts.md) | [Datasets](wiki/datasets.md) | [Subject Areas](wiki/subject_areas.md) | [Gallery](wiki/gallery.md)
 
-**Idea in progress**: setting up a wiki to organise and share the resources suggested by our club members
+This is a wiki to organise and share the resources suggested by our club members
 
-The wiki is a club activity open to all club members; and especially for beginners, a great way to practise version control, GitHub actions and collaborative writing in a supportive environment.
+The wiki is a club activity open to all club members; and especially for beginners, a great way to practise version control, GitHub actions and collaborative writing in a supportive environment
 
 ***
 
-At the moment we are figuring out whether we are happy with this wiki template:
-In theory, it could help us build a wiki with the functionalities shown in this [website demo](https://www.drassil.org/git-wiki/main_page)
+If you would like to contribute, you can do so
+
+- directly via GitHub as a collaborator
+
+- by posting in our Discord #**club-github-feed**
 
 This repo was forked from [git-wiki-skeleton](https://github.com/Drassil/git-wiki-skeleton)
 
