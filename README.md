@@ -2,9 +2,9 @@
 
 [Courses](wiki/courses.md) | [Careers](wiki/careers.md) | [Books and Podcasts](wiki/books_and_podcasts.md) | [Datasets](wiki/datasets.md) | [Subject Areas](wiki/subject_areas.md) | [Gallery](wiki/gallery.md)
 
-This is a wiki to organise and share the resources suggested by our club members
+This is a wiki to organise and share the resources suggested by our club members.
 
-The wiki is a club activity open to all club members; and especially for beginners, a great way to practise version control, GitHub actions and collaborative writing in a supportive environment
+The wiki is a club activity open to all club members; and especially for beginners, a great way to practise version control, GitHub actions and collaborative writing in a supportive environment.
 
 ***
 
