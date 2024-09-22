@@ -4,11 +4,9 @@
 
 ## 💡Project Portfolio Inspiration Board
 
-| River Flow Project | |
-| --- | --- |
-| <img src="/assets/Bathford-Station-Image.jpg"> | |
-| [https://github.com/OU-Weather-and-Climate-Club/River-Flow-Project](https://github.com/OU-Weather-and-Climate-Club/River-Flow-Project) | |
-| An exploratory data analysis on river flow and rainfall at Bathford gauging station on the River Avon | |
+
+[<img src="river-flow-thumbnail.png" width="362" height="181" style="margin: 20px">](https://github.com/OU-Weather-and-Climate-Club/River-Flow-Project) 
+
 
 ***
 
