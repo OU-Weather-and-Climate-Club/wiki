@@ -20,7 +20,7 @@ The [Copernicus Data Space Ecosystem](https://dataspace.copernicus.eu) is anothe
 
 ## 📌EUMETSAT
 
-[https://www.eumetsat.int/](https://www.eumetsat.int/)
+[https://user.eumetsat.int/dashboard ](https://user.eumetsat.int/dashboard )
 
 There are a lot of resources to support anyone wishing to get started - this EUMETSAT guide lists them all:
 
