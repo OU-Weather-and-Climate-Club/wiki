@@ -75,6 +75,8 @@ As well as their in-house Foundation Book of tutorials, Cookbooks, Data Reposito
 
 - [https://projectpythia.org/resource-gallery](https://projectpythia.org/resource-gallery)
 
+Included in the resources listed there is [Climatematch Academy](https://comptools.climatematch.io) .
+
 ***
 
 ## 📌 Harvard Center for the Environment
