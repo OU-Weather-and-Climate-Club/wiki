@@ -71,7 +71,7 @@ Project Pythia is a home for Python-centered learning resources that are open-so
 
 - [https://projectpythia.org/](https://projectpythia.org/)
 
-As well as their in-house Foundation Book of tutorials, Cookbooks, Data Repository and Youtube webinar playlists, Project Pythia curate a helpful resources gallery
+As well as their in-house Foundation Book of tutorials, Cookbooks, Data Repository and Youtube webinar playlists, Project Pythia curate a gallery for the discovery of other online courses
 
 - [https://projectpythia.org/resource-gallery](https://projectpythia.org/resource-gallery)
 
