@@ -65,7 +65,7 @@ You can subscribe to the [NCAS Training mailing list](https://ncas.us19.list-man
 
 ***
 
-## 📌 Project Pythia: an education hub for the geoscientific Python community
+## 📌 Project Pythia: An Educational Hub for the Geoscientific Python community
 
 Project Pythia is a home for Python-centered learning resources that are open-source, community-owned, geoscience-focused, and high-quality.
 
