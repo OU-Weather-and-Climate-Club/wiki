@@ -65,6 +65,18 @@ You can subscribe to the [NCAS Training mailing list](https://ncas.us19.list-man
 
 ***
 
+## 📌 Project Pythia: an education hub for the geoscientific Python community
+
+Project Pythia is a home for Python-centered learning resources that are open-source, community-owned, geoscience-focused, and high-quality.
+
+- [https://projectpythia.org/](https://projectpythia.org/)
+
+As well as their in-house Foundation Book of tutorials, Cookbooks, Data Repository and Youtube webinar playlists, Project Pythia curate a helpful resources gallery
+
+- [https://projectpythia.org/resource-gallery](https://projectpythia.org/resource-gallery)
+
+***
+
 ## 📌 Harvard Center for the Environment
 
 From the Harvard Center for the Environment, this is a course website giving a quantitative introduction to the science of climate change and its consequences, meant to assist students to process issues that often appear in the news and public debates.
