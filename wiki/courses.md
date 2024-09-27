@@ -75,7 +75,7 @@ As well as their in-house Foundation Book of tutorials, Cookbooks, Data Reposito
 
 - [https://projectpythia.org/resource-gallery](https://projectpythia.org/resource-gallery)
 
-Included in the resources listed there is [Climatematch Academy](https://comptools.climatematch.io) .
+Working in collaboration with Project Pythia is [Climatematch Academy](https://comptools.climatematch.io) which has made available the materials for its 2 week course on the Computational Tools for Climate Science.
 
 ***
 
