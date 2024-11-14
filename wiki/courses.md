@@ -11,6 +11,8 @@ The home of free learning from The Open University, there so many interesting co
 Some of the OpenLearn courses shared by our members include:
 
   - [Watching the Weather](https://www.open.edu/openlearn/nature-environment/environmental-studies/watching-the-weather)
+    
+  - [Climate Change and Renewable Energy](https://www.open.edu/openlearn/nature-environment/environmental-studies/climate-change-and-renewable-energy)
 
   - [Supporting Climate Action through Digital Education](https://www.open.edu/openlearn/education-development/supporting-climate-action-through-digital-education)
 
