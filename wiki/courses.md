@@ -104,6 +104,15 @@ There are slides, videos and coding exercises in Jupyter notebooks with module c
 
 *** 
 
+## 📌 University of the Highlands and Islands
+
+A brand new, fully online and flexible MSc programme with modules covering interests such as renewable energy, water and marine resources management.
+
+- [Extreme Weather MSc](https://www.uhi.ac.uk/en/courses/msc-extreme-weather)
+
+
+***
+
 ## 📌 RMetS Directory for University Degree Courses
 
 [https://www.rmets.org/courses](https://www.rmets.org/courses)
