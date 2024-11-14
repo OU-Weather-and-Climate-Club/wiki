@@ -45,6 +45,8 @@ Here are some podcast series recommended by members - we keep up to date with th
 - [Beyond The Ice](https://audioboom.com/channels/5122977-beyond-the-ice)
   
 - [Into The Blue](https://noc.ac.uk/education/educational-resources/into-the-blue-podcast)
+
+- [Rare Earth](https://www.bbc.co.uk/programmes/m001vbt0)
   
 - [Zero](https://www.bloomberg.com/green-zero-emissions-podcast)
   
