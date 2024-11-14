@@ -65,6 +65,21 @@ You can subscribe to the [NCAS Training mailing list](https://ncas.us19.list-man
 
 ***
 
+## 📌 UK Centre for Ecology and Hydrology
+
+Wide range of courses from hydrology to agriculture and environmental remote sensing to data science. Some courses have flexible online and on demand options and some are subsidised for students.
+
+- [UKCEH Training Courses](https://www.ceh.ac.uk/solutions/training)
+
+Data science courses include: Climate data analysis with python; Mastering Environmental Data with R: From Basics to Efficiency; Spatial analysis in QGIS and R - An introduction for environmental scientists; Environmental insights with machine learning: Theory and application
+
+You can subscribe to the [UKCEH Training newsletter](https://www.ceh.ac.uk/training/ceh-training-newsletter)
+
+There is a preview of LearnWorlds, UKCEH's online learning platform in this video: [https://youtu.be/_ry09lUNXkE?si=pAXyQDMgNrwYRSaC](https://youtu.be/_ry09lUNXkE?si=pAXyQDMgNrwYRSaC)
+
+
+*** 
+
 ## 📌 Project Pythia: An Educational Hub for the Geoscientific Python community
 
 Project Pythia is a home for Python-centered learning resources that are open-source, community-owned, geoscience-focused, and high-quality.
